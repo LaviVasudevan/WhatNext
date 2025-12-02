@@ -25,6 +25,8 @@ Career Prep Orchestrator
     └── Profile Analysis Tool
 ```
 
+[https://github.com/LaviVasudevan/WhatNext-/blob/b159f2621d0a5ec94e58bd040ab4c6601826488d/97de19cfdf9750ba9b78f8c8a1c166ee.png]
+
 ### Workflow
 
 1. The system begins with the user providing their target role, company, application status, and GitHub profile, which triggers two parallel analysis pipelines: the Job Researcher Agent and the GitHub Analyzer Agent.
