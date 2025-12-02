@@ -2,8 +2,6 @@
 
 Many people experience phases of feeling stuck, stagnated, or overwhelmed in their career journey, unsure of how ready they are to pursue their dream role or company. In these moments, what they often lack is an honest, structured, third-party perspective that can evaluate where they currently stand, what they're missing, and what direction they should move toward. This system solves exactly that problem by offering a grounded, external viewpoint that transforms uncertainty into a clear, confident next step.
 
-![Alt text](Gemini_Generated_Image_wdztmawdztmawdzt.png)
-
 ## Features
 
 - **Parallel Tool Execution**: Simultaneously analyzes GitHub profile and job requirements
