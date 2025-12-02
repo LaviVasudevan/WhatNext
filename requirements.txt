@@ -1,0 +1,15 @@
+# Core dependencies
+google-cloud-aiplatform[agent_engines,adk]>=1.112
+requests>=2.31.0
+PyPDF2>=3.0.0
+
+# Additional dependencies auto-added by deployment
+pydantic>=2.12.4
+cloudpickle>=3.1.2
+
+# Development dependencies
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Optional: For local testing
+python-dotenv>=1.0.0
