@@ -51,7 +51,7 @@ async def test_local_agent(app: AdkApp, test_message: str = None) -> None:
     if test_message is None:
         test_message = (
             "I want to prepare for a Machine Learning Engineer role at Google. "
-            "My GitHub is LaviVasudevan."
+            "My GitHub is your-github-username."
         )
     
     print("\n" + "=" * 70)
@@ -288,7 +288,7 @@ async def main():
     await query_deployed_agent(
         remote_agent,
         user_id="production-test-user",
-        message="Hi! I want to prepare for ML Engineer at Google. GitHub: LaviVasudevan"
+        message="Hi! I want to prepare for ML Engineer at Google. GitHub: your-github-username"
     )
     
     print("\n" + "=" * 70)
