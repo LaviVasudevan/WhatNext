@@ -44,7 +44,6 @@ Together, the system acts as a clarifying companion that transforms confusion ab
 career-prep-agent/
 ├── README.md                      # Project documentation
 ├── requirements.txt               # Python dependencies
-├── .gitignore                    # Git ignore rules
 │
 ├── src/                          # Source code
 │   ├── __init__.py              # Package initialization
@@ -52,10 +51,6 @@ career-prep-agent/
 │   ├── tools.py                 # Tool implementations
 │   ├── agents.py                # Agent definitions
 │   └── deploy.py                # Deployment utilities
-│
-└── notebooks/                    # Jupyter notebooks
-    └── agent-deployment.ipynb   # Full deployment tutorial
-```
 
 ## Prerequisites
 
