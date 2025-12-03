@@ -51,6 +51,7 @@ career-prep-agent/
 │   ├── tools.py                 # Tool implementations
 │   ├── agents.py                # Agent definitions
 │   └── deploy.py                # Deployment utilities
+```
 
 ## Prerequisites
 
